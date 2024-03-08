@@ -1,5 +1,7 @@
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?encryption=none&security=tls&sni=always-online1.lp-airdrop.top&fp=randomized&type=ws&host=always-online1.lp-airdrop.top&path=%2F#کانفیگ شماره4
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفیگ شماره5
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفیگ شماره6
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفیگ شماره7
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?encryption=none&security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&path=%2F#کانفیگ شماره8
+vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.20.19.145:2053?encryption=none&security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&fp=chrome&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&path=%2F#کانفیگ14
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.68.191:443?encryption=none&security=tls&sni=baipiao343.stunning-bassoon.pages.dev&fp=safari&type=ws&host=baipiao343.stunning-bassoon.pages.dev&path=%2F#کانفیگ13
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.43.16:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفگیگ12
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@zula.ir:443?encryption=none&security=tls&sni=Bia.alLhub.Ltd&type=ws&host=biA.ALlhub.LTD&path=%2F#کانفیگ11
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.16.218.163:2083?encryption=none&security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#کانفیگ10
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.235.65:2083?encryption=none&security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#کانفیگ9
+
