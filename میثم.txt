@@ -1,7 +1,6 @@
-vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@de1.alphav2ray.link:443?encryption=none&security=tls&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Unlimited%20PREMIUM%20%20%40V2rayStore
+vless://b203d933-3ccc-475d-95a8-d06a9a7cc43b@de1.alphav2ray.link:443?encryption=none&security=tls&type=grpc#کانفیگ شماره 1
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفیگ شماره 2
 
 
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%203
-
-
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#%F0%9F%87%A8%F0%9F%87%A6CA%20%7C%20vless%20%7C%20%40v2rayNG_Matsuri%20%7C%207
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@dnsss-----join.outline-vpn.cloud:443?encryption=none&security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F#کانفیگ شماره 3
