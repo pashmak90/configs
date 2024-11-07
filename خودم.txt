@@ -1,1 +1,0 @@
-vless://2ebcc8e9-75e1-4cb4-8647-7b34675d0437@46.38.143.49:80?encryption=none&security=none&type=ws&path=%2F#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C1
